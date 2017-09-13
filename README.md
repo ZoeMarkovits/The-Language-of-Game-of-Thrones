@@ -1,5 +1,5 @@
 # The Language of Game of Thrones
-## Project Five: The Language of Game of Thrones: A Dissection of Character Agency and Dialogue by Gender  
+## Project 5: The Language of Game of Thrones: A Dissection of Character Agency and Dialogue by Gender  
 
 This repo includes: 
 * Project code
