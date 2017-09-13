@@ -17,5 +17,5 @@ Models and methods used to achieve these answers:
 * Sentiment Analysis
 * CountVectorizer and TF-IDF Vectorizer 
 * Word2Vec
-* Cosine Similarities Comparisons 
+* Cosine Similaritiy Comparisons 
 * D3 Visualization 
