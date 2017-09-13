@@ -18,3 +18,4 @@ Models and methods used to achieve these answers:
 * CountVectorizer and TF-IDF Vectorizer 
 * Word2Vec
 * Cosine Similarities Comparisons 
+* D3 Visualization 
