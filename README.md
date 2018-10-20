@@ -20,3 +20,4 @@ Models and methods used to achieve these answers:
 * t-SNE
 * Cosine Similaritiy Comparisons 
 * D3 Visualization 
+
